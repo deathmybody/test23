@@ -1,0 +1,250 @@
+ body {
+    margin: 0;
+    padding: 0;
+ }
+ 
+text {
+    font-size: 0.5in;
+    font-family: "Arial";
+    font-weight: bold;
+    text-align: right;
+    position: absolute;
+    left: 0.124in;
+    top: 4.871in;
+    width: 2.194in;
+    height: 0.361in;
+    z-index: 15;
+ }
+ #background 
+{ 
+     left: 0px; 
+     top: 0px; 
+     position: relative; 
+     margin-left: auto; 
+     margin-right: auto; 
+     width: 1920px;
+     height: 1080px; 
+     overflow: hidden;
+     z-index:0;
+    } 
+
+ #Layer10 
+{ 
+     left: 110px; 
+     top: 0px; 
+     position: absolute; 
+     width: 1810px;
+     height: 1080px;
+     z-index:1;
+} 
+
+ #SocialsIcons 
+{ 
+     left: 182px; 
+     top: 920px; 
+     position: absolute; 
+     width: 265px;
+     height: 55px;
+     z-index:2;
+} 
+
+ #U3Allrightsreserved2 
+{ 
+     left: 193px; 
+     top: 983px; 
+     position: absolute; 
+     width: 254px;
+     height: 43px;
+     z-index:3;
+} 
+
+ #PRINTABLES 
+{ 
+     left: 194px; 
+     top: 690px; 
+     position: absolute; 
+     width: 248px;
+     height: 26px;
+     z-index:4;
+} 
+
+ #LIMITED 
+{ 
+     color: black;
+     left: 194px; 
+     top: 629px; 
+     position: absolute; 
+     width: 158px;
+     height: 26px;
+     z-index:5;
+} 
+
+ #ARTISTS 
+{ 
+     left: 194px; 
+     top: 572px; 
+     position: absolute; 
+     width: 172px;
+     height: 26px;
+     z-index:6;
+} 
+
+ #PRINTS 
+{ 
+     left: 193px; 
+     top: 515px; 
+     position: absolute; 
+     width: 143px;
+     height: 26px;
+     z-index:7;
+} 
+
+ #ORIGINALS 
+{ 
+     left: 193px; 
+     top: 460px; 
+     position: absolute; 
+     width: 219px;
+     height: 26px;
+     z-index:8;
+} 
+
+ #layer_3 
+{ 
+     left: 257px; 
+     top: 273px; 
+     position: absolute; 
+     width: 55px;
+     height: 81px;
+     z-index:9;
+} 
+
+ #U 
+{ 
+     left: 193px; 
+     top: 275px; 
+     position: absolute; 
+     width: 68px;
+     height: 81px;
+     z-index:10;
+} 
+
+ #Baramini 
+{ 
+     left: -1px; 
+     top: -25px; 
+     position: absolute; 
+     width: 113px;
+     height: 1152px;
+     z-index:11;
+} 
+
+ #Layer4 
+{ 
+     left: 31px; 
+     top: 572px; 
+     position: absolute; 
+     width: 50px;
+     height: 74px;
+     z-index:12;
+} 
+
+ #layer_13 
+{ 
+     font-size: 36px;
+     font-family: "Couture";
+     font-weight: bold;
+     text-align: right;
+     position: absolute;
+     left: 47px;
+     top: 600px;
+     width: 18px;
+     height: 27px;
+     z-index: 28;
+} 
+
+ #Ellipse1 
+{ 
+     left: 31px; 
+     top: 456px; 
+     position: absolute; 
+     width: 48px;
+     height: 48px;
+     z-index:14;
+} 
+
+ #GAVRIIL 
+{ 
+  font-size: 28.18px;
+  font-family: "HelveticaNeue";
+  color: rgb( 0, 0, 0 );
+  text-align: right;
+  -moz-transform: matrix( 1, 0, 0, 0.81260886603122, 0, 0);
+  -webkit-transform: matrix( 1, 0, 0, 0.81260886603122, 0, 0);
+  position: absolute;
+  left: 14px;
+  top: 513px;
+  width: 83px;
+  height: 18px;
+  z-index: 32;
+} 
+
+ #Ellipse3 
+{ 
+     left: 43px; 
+     top: 473px; 
+     position: absolute; 
+     width: 24px;
+     height: 43px;
+     z-index:16;
+} 
+
+ #Ellipse2 
+{ 
+     left: 46px; 
+     top: 458px; 
+     position: absolute; 
+     width: 18px;
+     height: 18px;
+     z-index:17;
+} 
+
+ #Rectangle3 
+{ 
+     left: 24px; 
+     top: 98px; 
+     position: absolute; 
+     width: 63px;
+     height: 9px;
+     z-index:18;
+} 
+
+ #Rectangle3copy 
+{ 
+     left: 24px; 
+     top: 111px; 
+     position: absolute; 
+     width: 63px;
+     height: 9px;
+     z-index:19;
+} 
+
+ #Rectangle3copy2 
+{ 
+     left: 24px; 
+     top: 124px; 
+     position: absolute; 
+     width: 63px;
+     height: 9px;
+     z-index:20;
+} 
+
+ #fundal
+ {
+    position: absolute;
+    left: 0in;
+    top: 0in;
+    width: 30.486in;
+    height: 19.056in;
+    z-index: 10;
+ }
